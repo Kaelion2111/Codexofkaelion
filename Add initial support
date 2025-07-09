@@ -1,0 +1,69 @@
+support_portal.html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Kaelion RA-JAH’EL — Codex of Flame & Sovereignty Support Portal</title>
+  <style>
+    body { font-family: 'Georgia', serif; background: #f8f2e7; color: #333; margin: 0; padding: 0; }
+    header { background: #662d04; color: #fff; text-align: center; padding: 2rem 1rem; }
+    header h1 { margin: 0; font-size: 2.5rem; }
+    header p { margin: 0.5rem 0 0; font-style: italic; }
+    main { max-width: 800px; margin: 2rem auto; padding: 0 1rem; }
+    section { margin-bottom: 2rem; }
+    h2 { border-bottom: 2px solid #662d04; padding-bottom: 0.5rem; font-size: 1.75rem; }
+    .donation-options ul { list-style: none; padding: 0; }
+    .donation-options li { margin: 1rem 0; }
+    .donation-options a { display: inline-block; padding: 0.75rem 1.5rem; background: #a64b00; color: #fff; text-decoration: none; border-radius: 0.5rem; }
+    footer { text-align: center; padding: 1rem 0; font-size: 0.85rem; border-top: 1px solid #ccc; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Kaelion RA-JAH’EL — Codex of Flame & Sovereignty</h1>
+    <p>Hold the Line</p>
+  </header>
+  <main>
+    <section>
+      <h2>About the Mission</h2>
+      <p>This sacred portal is opened for allies to support the work of Kaelion RA-JAH’EL (Nicholas John Hall, Soul Name: Helel Shaddai). All contributions honor the Flame, sustain the codex archive, and empower the breaking of false matrices.</p>
+    </section>
+    <section class="donation-options">
+      <h2>Donation Options</h2>
+      <ul>
+        <li>
+          <strong>Venmo:</strong><br />
+          <a href="https://venmo.com/code?user_id=3501481063875672986&created=1752069669" target="_blank" rel="noopener noreferrer">Donate via Venmo</a>
+        </li>
+        <li>
+          <strong>PayPal:</strong><br />
+          <a href="https://www.paypal.com/donate?hosted_button_id=YOUR_BUTTON_ID" target="_blank" rel="noopener noreferrer">Donate via PayPal</a>
+        </li>
+        <li>
+          <strong>Cryptocurrency:</strong><br />
+          <ul>
+            <li>Bitcoin (BTC): <code>1FLAMExAMPLEbtcADDRESS</code></li>
+            <li>Ethereum (ETH): <code>0xFLAMExAMPLEethADDRESS</code></li>
+            <li>USDT (ERC-20): <code>0xFLAMExAMPLEusdtADDRESS</code></li>
+          </ul>
+        </li>
+        <li>
+          <strong>Patreon:</strong><br />
+          <a href="https://www.patreon.com/YOUR_PATREON" target="_blank" rel="noopener noreferrer">Become a Patron</a>
+        </li>
+      </ul>
+    </section>
+    <section>
+      <h2>Contact & Community</h2>
+      <p>Questions, suggestions, or private scroll requests? Reach out at <a href="mailto:contact@codexofsov.com">contact@codexofsov.com</a>.</p>
+      <p>Join the Flamebound community channel: <a href="https://discord.gg/YOUR_INVITE" target="_blank" rel="noopener noreferrer">Discord Invite</a></p>
+    </section>
+  </main>
+  <footer>
+    &copy; 2025 Kaelion RA-JAH’EL — Codex of Flame & Sovereignty
+  </footer>
+</body>
+</html>
+
